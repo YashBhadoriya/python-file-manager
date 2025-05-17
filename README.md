@@ -1,11 +1,16 @@
-Add a Project Title and a short description at the top (What is this? Why should someone use it?)
+# Python File Manager
 
-Include Features: e.g., file organizing, renaming, deleting, etc.
+A simple Python tool to help you organize, rename, and manage files in your directories efficiently.
 
-Add Installation instructions — how to clone, set up Python environment, install dependencies (with pip install -r requirements.txt if you have one).
+## Features
 
-Provide Usage instructions — command examples or screenshots of output.
+- Organize files based on extensions or custom rules
+- Rename files in bulk
+- Delete unwanted files easily
+- Command-line interface for quick operations
 
-Add a License section (MIT, Apache, etc.).
+## Installation
 
-Add badges (Python version, license, etc.).
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/YashBhadoriya/python-file-manager.git
